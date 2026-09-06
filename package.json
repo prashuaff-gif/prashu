@@ -1,0 +1,20 @@
+{
+  "name": "prashu-portfolio",
+  "version": "1.0.0",
+  "description": "Prashu Narayan Yadav - Network Engineer Portfolio",
+  "private": true,
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'No build step required for static HTML'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "portfolio",
+    "network-engineer"
+  ],
+  "author": "Prashu Narayan Yadav",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
